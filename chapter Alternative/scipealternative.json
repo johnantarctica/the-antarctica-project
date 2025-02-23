@@ -2,7 +2,7 @@
   "guild": {
     "id": "958614546870837308",
     "name": "TAP",
-    "iconUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\421e4b7d67024c8299c3aca3da0cc405-61B0F.png"
+    "iconUrl": "ASSETS forma de json\\421e4b7d67024c8299c3aca3da0cc405-61B0F.png"
   },
   "channel": {
     "id": "1092943118682308638",
@@ -12,10 +12,7 @@
     "name": "I read Alternative",
     "topic": null
   },
-  "dateRange": {
-    "after": null,
-    "before": null
-  },
+  "dateRange": { "after": null, "before": null },
   "exportedAt": "2025-02-20T19:29:06.4567172-05:00",
   "messages": [
     {
@@ -53,7 +50,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -102,7 +99,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -146,7 +143,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -190,7 +187,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -234,7 +231,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -278,7 +275,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -322,12 +319,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092943917860790382",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-2D346.png",
+          "url": "ASSETS forma de json\\image-2D346.png",
           "fileName": "image.png",
           "fileSizeBytes": 2584
         }
@@ -373,12 +370,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092944036941267045",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-7BCF9.png",
+          "url": "ASSETS forma de json\\image-7BCF9.png",
           "fileName": "image.png",
           "fileSizeBytes": 3410
         }
@@ -424,7 +421,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -468,7 +465,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -512,7 +509,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -556,7 +553,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -600,7 +597,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -644,12 +641,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092944542770139206",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-F9B46.png",
+          "url": "ASSETS forma de json\\image-F9B46.png",
           "fileName": "image.png",
           "fileSizeBytes": 10677
         }
@@ -695,7 +692,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -739,12 +736,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092944757837279293",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-2CBB9.png",
+          "url": "ASSETS forma de json\\image-2CBB9.png",
           "fileName": "image.png",
           "fileSizeBytes": 716
         }
@@ -790,12 +787,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092945027103195438",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-DD4E3.png",
+          "url": "ASSETS forma de json\\image-DD4E3.png",
           "fileName": "image.png",
           "fileSizeBytes": 10483
         }
@@ -841,7 +838,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -885,7 +882,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -929,7 +926,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -973,7 +970,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1017,7 +1014,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1061,7 +1058,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1105,12 +1102,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092945477898612746",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-C0CBB.png",
+          "url": "ASSETS forma de json\\image-C0CBB.png",
           "fileName": "image.png",
           "fileSizeBytes": 7572
         }
@@ -1156,12 +1153,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092945835660152892",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-6F7D6.png",
+          "url": "ASSETS forma de json\\image-6F7D6.png",
           "fileName": "image.png",
           "fileSizeBytes": 10953
         }
@@ -1207,7 +1204,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1251,7 +1248,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1295,7 +1292,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1339,12 +1336,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092946091307171950",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-17F64.png",
+          "url": "ASSETS forma de json\\image-17F64.png",
           "fileName": "image.png",
           "fileSizeBytes": 5652
         }
@@ -1390,7 +1387,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1434,7 +1431,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1478,12 +1475,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092946382421241966",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-0754F.png",
+          "url": "ASSETS forma de json\\image-0754F.png",
           "fileName": "image.png",
           "fileSizeBytes": 27231
         }
@@ -1529,7 +1526,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1573,7 +1570,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1617,7 +1614,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1661,7 +1658,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1705,12 +1702,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092946550361170020",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-60344.png",
+          "url": "ASSETS forma de json\\image-60344.png",
           "fileName": "image.png",
           "fileSizeBytes": 14439
         }
@@ -1756,12 +1753,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092946640912007218",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-6064E.png",
+          "url": "ASSETS forma de json\\image-6064E.png",
           "fileName": "image.png",
           "fileSizeBytes": 7175
         }
@@ -1807,7 +1804,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1851,12 +1848,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092946961151299654",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-76BB7.png",
+          "url": "ASSETS forma de json\\image-76BB7.png",
           "fileName": "image.png",
           "fileSizeBytes": 6335
         }
@@ -1902,7 +1899,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1946,7 +1943,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -1990,7 +1987,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2034,7 +2031,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2078,12 +2075,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092947940240273490",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-A0033.png",
+          "url": "ASSETS forma de json\\image-A0033.png",
           "fileName": "image.png",
           "fileSizeBytes": 2369
         }
@@ -2129,7 +2126,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2173,7 +2170,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2217,12 +2214,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092948098407465060",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-979A8.png",
+          "url": "ASSETS forma de json\\image-979A8.png",
           "fileName": "image.png",
           "fileSizeBytes": 8178
         }
@@ -2268,7 +2265,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2312,7 +2309,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2356,12 +2353,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092948534074024006",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-06F07.png",
+          "url": "ASSETS forma de json\\image-06F07.png",
           "fileName": "image.png",
           "fileSizeBytes": 5891
         }
@@ -2407,7 +2404,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2451,7 +2448,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2495,7 +2492,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2539,7 +2536,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2583,12 +2580,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092948956683702292",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-08699.png",
+          "url": "ASSETS forma de json\\image-08699.png",
           "fileName": "image.png",
           "fileSizeBytes": 4828
         }
@@ -2634,7 +2631,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2678,12 +2675,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092949031841447946",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-BBFEB.png",
+          "url": "ASSETS forma de json\\image-BBFEB.png",
           "fileName": "image.png",
           "fileSizeBytes": 1419
         }
@@ -2729,12 +2726,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092949240843616336",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-39E9D.png",
+          "url": "ASSETS forma de json\\image-39E9D.png",
           "fileName": "image.png",
           "fileSizeBytes": 12586
         }
@@ -2780,7 +2777,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2824,7 +2821,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2868,7 +2865,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -2912,12 +2909,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092949823843467415",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-B0A98.png",
+          "url": "ASSETS forma de json\\image-B0A98.png",
           "fileName": "image.png",
           "fileSizeBytes": 3332
         }
@@ -2963,7 +2960,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3007,7 +3004,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3051,12 +3048,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092950128891023380",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-691E2.png",
+          "url": "ASSETS forma de json\\image-691E2.png",
           "fileName": "image.png",
           "fileSizeBytes": 2542
         }
@@ -3102,12 +3099,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092950265273000066",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-DD15A.png",
+          "url": "ASSETS forma de json\\image-DD15A.png",
           "fileName": "image.png",
           "fileSizeBytes": 13063
         }
@@ -3153,7 +3150,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3197,12 +3194,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092950431912706128",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-2EC89.png",
+          "url": "ASSETS forma de json\\image-2EC89.png",
           "fileName": "image.png",
           "fileSizeBytes": 8805
         }
@@ -3248,7 +3245,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3292,12 +3289,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092950586665730169",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-A1944.png",
+          "url": "ASSETS forma de json\\image-A1944.png",
           "fileName": "image.png",
           "fileSizeBytes": 22788
         }
@@ -3343,12 +3340,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092950800285843536",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-216A5.png",
+          "url": "ASSETS forma de json\\image-216A5.png",
           "fileName": "image.png",
           "fileSizeBytes": 6251
         }
@@ -3394,7 +3391,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3438,7 +3435,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3482,12 +3479,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092951059443503265",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-8AA39.png",
+          "url": "ASSETS forma de json\\image-8AA39.png",
           "fileName": "image.png",
           "fileSizeBytes": 13063
         }
@@ -3533,7 +3530,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3577,12 +3574,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092951269112553602",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-BE9AC.png",
+          "url": "ASSETS forma de json\\image-BE9AC.png",
           "fileName": "image.png",
           "fileSizeBytes": 13807
         }
@@ -3628,7 +3625,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3672,12 +3669,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092951428810686474",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-4D062.png",
+          "url": "ASSETS forma de json\\image-4D062.png",
           "fileName": "image.png",
           "fileSizeBytes": 1138
         }
@@ -3723,7 +3720,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3767,12 +3764,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092951540823773256",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-7C582.png",
+          "url": "ASSETS forma de json\\image-7C582.png",
           "fileName": "image.png",
           "fileSizeBytes": 10323
         }
@@ -3818,7 +3815,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3862,12 +3859,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1092951667521101865",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-6C089.png",
+          "url": "ASSETS forma de json\\image-6C089.png",
           "fileName": "image.png",
           "fileSizeBytes": 16335
         }
@@ -3913,7 +3910,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -3957,7 +3954,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4001,12 +3998,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094365025633845358",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-43042.png",
+          "url": "ASSETS forma de json\\image-43042.png",
           "fileName": "image.png",
           "fileSizeBytes": 47779
         }
@@ -4052,12 +4049,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094365464299315200",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-F10AA.png",
+          "url": "ASSETS forma de json\\image-F10AA.png",
           "fileName": "image.png",
           "fileSizeBytes": 10324
         }
@@ -4103,12 +4100,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094365867380322344",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-207D2.png",
+          "url": "ASSETS forma de json\\image-207D2.png",
           "fileName": "image.png",
           "fileSizeBytes": 4933
         }
@@ -4154,12 +4151,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094366210780561509",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-35A32.png",
+          "url": "ASSETS forma de json\\image-35A32.png",
           "fileName": "image.png",
           "fileSizeBytes": 5194
         }
@@ -4193,7 +4190,7 @@
             "position": 5
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
+        "avatarUrl": "ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4237,7 +4234,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4281,7 +4278,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4325,7 +4322,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4369,12 +4366,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094367109632495636",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-85200.png",
+          "url": "ASSETS forma de json\\image-85200.png",
           "fileName": "image.png",
           "fileSizeBytes": 7617
         }
@@ -4420,7 +4417,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4464,12 +4461,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094367424406626314",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-300EA.png",
+          "url": "ASSETS forma de json\\image-300EA.png",
           "fileName": "image.png",
           "fileSizeBytes": 19120
         }
@@ -4515,12 +4512,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094367759346978836",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-57235.png",
+          "url": "ASSETS forma de json\\image-57235.png",
           "fileName": "image.png",
           "fileSizeBytes": 35058
         }
@@ -4566,12 +4563,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094368582764339270",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-D3142.png",
+          "url": "ASSETS forma de json\\image-D3142.png",
           "fileName": "image.png",
           "fileSizeBytes": 4607
         }
@@ -4617,12 +4614,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1094369277580152912",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-629B6.png",
+          "url": "ASSETS forma de json\\image-629B6.png",
           "fileName": "image.png",
           "fileSizeBytes": 12979
         }
@@ -4668,7 +4665,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4712,7 +4709,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4756,7 +4753,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4800,12 +4797,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095808891931078787",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1669-863CF.png",
+          "url": "ASSETS forma de json\\IMG_1669-863CF.png",
           "fileName": "IMG_1669.png",
           "fileSizeBytes": 50681
         }
@@ -4851,7 +4848,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -4895,12 +4892,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095809287328120832",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1670-E58BB.png",
+          "url": "ASSETS forma de json\\IMG_1670-E58BB.png",
           "fileName": "IMG_1670.png",
           "fileSizeBytes": 24468
         }
@@ -4946,12 +4943,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095809530920706150",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1671-827C3.png",
+          "url": "ASSETS forma de json\\IMG_1671-827C3.png",
           "fileName": "IMG_1671.png",
           "fileSizeBytes": 70460
         }
@@ -4997,12 +4994,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095810135932280992",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1672-449E9.png",
+          "url": "ASSETS forma de json\\IMG_1672-449E9.png",
           "fileName": "IMG_1672.png",
           "fileSizeBytes": 40044
         }
@@ -5048,7 +5045,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5092,7 +5089,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5136,7 +5133,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5180,7 +5177,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5224,7 +5221,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5268,12 +5265,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095810713332748318",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1673-51E47.png",
+          "url": "ASSETS forma de json\\IMG_1673-51E47.png",
           "fileName": "IMG_1673.png",
           "fileSizeBytes": 82526
         }
@@ -5319,7 +5316,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5363,7 +5360,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5407,7 +5404,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5451,12 +5448,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095810975212523681",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1674-9DD6E.png",
+          "url": "ASSETS forma de json\\IMG_1674-9DD6E.png",
           "fileName": "IMG_1674.png",
           "fileSizeBytes": 102496
         }
@@ -5502,7 +5499,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5546,12 +5543,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095811325399142540",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1675-4BE5A.png",
+          "url": "ASSETS forma de json\\IMG_1675-4BE5A.png",
           "fileName": "IMG_1675.png",
           "fileSizeBytes": 83908
         }
@@ -5597,7 +5594,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5641,12 +5638,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095811684385443911",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1676-B5707.png",
+          "url": "ASSETS forma de json\\IMG_1676-B5707.png",
           "fileName": "IMG_1676.png",
           "fileSizeBytes": 83480
         }
@@ -5692,7 +5689,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5736,7 +5733,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5780,7 +5777,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5824,7 +5821,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5868,7 +5865,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5912,7 +5909,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -5956,7 +5953,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6000,7 +5997,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6044,7 +6041,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6088,12 +6085,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095813160864329888",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1677-2D0CD.png",
+          "url": "ASSETS forma de json\\IMG_1677-2D0CD.png",
           "fileName": "IMG_1677.png",
           "fileSizeBytes": 114416
         }
@@ -6139,7 +6136,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6183,7 +6180,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6227,7 +6224,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6271,7 +6268,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6315,7 +6312,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6359,7 +6356,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6403,7 +6400,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6447,7 +6444,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6491,12 +6488,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095814403431084033",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1678-B3E5B.png",
+          "url": "ASSETS forma de json\\IMG_1678-B3E5B.png",
           "fileName": "IMG_1678.png",
           "fileSizeBytes": 58414
         }
@@ -6542,7 +6539,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6586,7 +6583,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6630,7 +6627,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6674,7 +6671,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6718,7 +6715,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6762,12 +6759,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095820825149587536",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1680-79F34.png",
+          "url": "ASSETS forma de json\\IMG_1680-79F34.png",
           "fileName": "IMG_1680.png",
           "fileSizeBytes": 74472
         }
@@ -6813,12 +6810,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095820977000169482",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1681-1C1B2.png",
+          "url": "ASSETS forma de json\\IMG_1681-1C1B2.png",
           "fileName": "IMG_1681.png",
           "fileSizeBytes": 156513
         }
@@ -6864,7 +6861,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6908,7 +6905,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6952,7 +6949,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -6996,12 +6993,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095821712156803273",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1682-7DC42.png",
+          "url": "ASSETS forma de json\\IMG_1682-7DC42.png",
           "fileName": "IMG_1682.png",
           "fileSizeBytes": 30428
         }
@@ -7047,7 +7044,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7091,7 +7088,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7135,7 +7132,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7179,7 +7176,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7223,7 +7220,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7267,12 +7264,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095822292434558986",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1683-58DF3.png",
+          "url": "ASSETS forma de json\\IMG_1683-58DF3.png",
           "fileName": "IMG_1683.png",
           "fileSizeBytes": 140832
         }
@@ -7318,12 +7315,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095822596991373353",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1684-FCE33.png",
+          "url": "ASSETS forma de json\\IMG_1684-FCE33.png",
           "fileName": "IMG_1684.png",
           "fileSizeBytes": 130835
         }
@@ -7369,12 +7366,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095823872663756860",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1685-CEF96.png",
+          "url": "ASSETS forma de json\\IMG_1685-CEF96.png",
           "fileName": "IMG_1685.png",
           "fileSizeBytes": 42845
         }
@@ -7420,7 +7417,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7464,12 +7461,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095824082966155274",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1686-671F9.png",
+          "url": "ASSETS forma de json\\IMG_1686-671F9.png",
           "fileName": "IMG_1686.png",
           "fileSizeBytes": 50103
         }
@@ -7515,7 +7512,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7559,12 +7556,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095824341431763056",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1687-344DD.png",
+          "url": "ASSETS forma de json\\IMG_1687-344DD.png",
           "fileName": "IMG_1687.png",
           "fileSizeBytes": 211818
         }
@@ -7610,7 +7607,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7654,7 +7651,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7698,7 +7695,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7742,7 +7739,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -7786,12 +7783,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095824849978527844",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1688-9ADB3.png",
+          "url": "ASSETS forma de json\\IMG_1688-9ADB3.png",
           "fileName": "IMG_1688.png",
           "fileSizeBytes": 13722
         }
@@ -7837,12 +7834,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095828438511800422",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1689-70C08.png",
+          "url": "ASSETS forma de json\\IMG_1689-70C08.png",
           "fileName": "IMG_1689.png",
           "fileSizeBytes": 38463
         }
@@ -7888,12 +7885,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095828784114057266",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1690-59036.png",
+          "url": "ASSETS forma de json\\IMG_1690-59036.png",
           "fileName": "IMG_1690.png",
           "fileSizeBytes": 72033
         }
@@ -7939,12 +7936,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095829087928455279",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1691-700A3.png",
+          "url": "ASSETS forma de json\\IMG_1691-700A3.png",
           "fileName": "IMG_1691.png",
           "fileSizeBytes": 52300
         }
@@ -7990,12 +7987,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095829398571208704",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1692-8AB93.png",
+          "url": "ASSETS forma de json\\IMG_1692-8AB93.png",
           "fileName": "IMG_1692.png",
           "fileSizeBytes": 277630
         }
@@ -8041,7 +8038,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8085,7 +8082,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8129,7 +8126,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8173,7 +8170,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8217,12 +8214,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095830005851902014",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1693-4715B.png",
+          "url": "ASSETS forma de json\\IMG_1693-4715B.png",
           "fileName": "IMG_1693.png",
           "fileSizeBytes": 168348
         }
@@ -8268,12 +8265,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095830207165903010",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1694-C6887.png",
+          "url": "ASSETS forma de json\\IMG_1694-C6887.png",
           "fileName": "IMG_1694.png",
           "fileSizeBytes": 154520
         }
@@ -8319,7 +8316,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8363,7 +8360,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8407,7 +8404,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8451,7 +8448,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8495,7 +8492,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8539,7 +8536,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8583,7 +8580,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8627,7 +8624,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8671,7 +8668,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8715,12 +8712,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095832157169127494",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1695-EAEDE.png",
+          "url": "ASSETS forma de json\\IMG_1695-EAEDE.png",
           "fileName": "IMG_1695.png",
           "fileSizeBytes": 95258
         }
@@ -8766,7 +8763,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8810,7 +8807,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8854,7 +8851,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -8867,7 +8864,7 @@
           "name": "♠",
           "code": "♠",
           "isAnimated": false,
-          "imageUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\2660-58B95.svg"
+          "imageUrl": "ASSETS forma de json\\2660-58B95.svg"
         }
       ]
     },
@@ -8906,12 +8903,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095832598573482054",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1696-A9EAA.png",
+          "url": "ASSETS forma de json\\IMG_1696-A9EAA.png",
           "fileName": "IMG_1696.png",
           "fileSizeBytes": 150203
         }
@@ -8957,7 +8954,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9001,7 +8998,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9045,7 +9042,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9089,7 +9086,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9133,7 +9130,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9177,12 +9174,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095833261671981116",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1697-DC5BE.png",
+          "url": "ASSETS forma de json\\IMG_1697-DC5BE.png",
           "fileName": "IMG_1697.png",
           "fileSizeBytes": 62789
         }
@@ -9228,12 +9225,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1095833516807307486",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_1698-08E03.png",
+          "url": "ASSETS forma de json\\IMG_1698-08E03.png",
           "fileName": "IMG_1698.png",
           "fileSizeBytes": 63549
         }
@@ -9279,7 +9276,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9323,7 +9320,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9367,7 +9364,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9411,7 +9408,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9455,7 +9452,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9499,7 +9496,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9543,7 +9540,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9587,7 +9584,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9631,7 +9628,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9675,7 +9672,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9719,7 +9716,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9763,7 +9760,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9807,7 +9804,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9851,7 +9848,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -9895,12 +9892,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105132747216920636",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\5C384BFC-B75B-4673-90E1-0124DB838B95-27B2B.jpeg",
+          "url": "ASSETS forma de json\\5C384BFC-B75B-4673-90E1-0124DB838B95-27B2B.jpeg",
           "fileName": "5C384BFC-B75B-4673-90E1-0124DB838B95.jpeg",
           "fileSizeBytes": 59365
         }
@@ -9946,12 +9943,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105133385678069881",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\C1226FB6-5E37-4132-B174-C675151F31A5-2DA10.jpeg",
+          "url": "ASSETS forma de json\\C1226FB6-5E37-4132-B174-C675151F31A5-2DA10.jpeg",
           "fileName": "C1226FB6-5E37-4132-B174-C675151F31A5.jpeg",
           "fileSizeBytes": 66034
         }
@@ -9997,7 +9994,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -10013,7 +10010,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "> Being generically helpful is kind of my role\n\uD83D\uDD25",
+      "content": "> Being generically helpful is kind of my role\n🔥",
       "author": {
         "id": "813852886572335136",
         "name": "johnantarctica",
@@ -10041,7 +10038,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -10051,10 +10048,10 @@
       "inlineEmojis": [
         {
           "id": "",
-          "name": "\uD83D\uDD25",
+          "name": "🔥",
           "code": "fire",
           "isAnimated": false,
-          "imageUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\1f525-8FE4F.svg"
+          "imageUrl": "ASSETS forma de json\\1f525-8FE4F.svg"
         }
       ]
     },
@@ -10093,12 +10090,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105133881730023555",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\365FA781-1D24-4808-80AE-061A395FD08D-081FA.jpeg",
+          "url": "ASSETS forma de json\\365FA781-1D24-4808-80AE-061A395FD08D-081FA.jpeg",
           "fileName": "365FA781-1D24-4808-80AE-061A395FD08D.jpeg",
           "fileSizeBytes": 54241
         }
@@ -10144,12 +10141,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105133993969582090",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\9D6856A8-28B2-4DAC-9719-E8E4AA6A487F-87B61.jpeg",
+          "url": "ASSETS forma de json\\9D6856A8-28B2-4DAC-9719-E8E4AA6A487F-87B61.jpeg",
           "fileName": "9D6856A8-28B2-4DAC-9719-E8E4AA6A487F.jpeg",
           "fileSizeBytes": 46414
         }
@@ -10195,12 +10192,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105134378113310781",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\C522837E-C508-42A3-B73A-FA6A8731C459-2245F.jpeg",
+          "url": "ASSETS forma de json\\C522837E-C508-42A3-B73A-FA6A8731C459-2245F.jpeg",
           "fileName": "C522837E-C508-42A3-B73A-FA6A8731C459.jpeg",
           "fileSizeBytes": 32605
         }
@@ -10246,12 +10243,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105135218018492527",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\48A25E38-C238-44C8-817F-AA118F28A780-CEFED.jpeg",
+          "url": "ASSETS forma de json\\48A25E38-C238-44C8-817F-AA118F28A780-CEFED.jpeg",
           "fileName": "48A25E38-C238-44C8-817F-AA118F28A780.jpeg",
           "fileSizeBytes": 62122
         }
@@ -10297,12 +10294,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105135637247557632",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\D60C6A33-2AA4-4BF2-B817-E8803CBDFDF6-7EB59.jpeg",
+          "url": "ASSETS forma de json\\D60C6A33-2AA4-4BF2-B817-E8803CBDFDF6-7EB59.jpeg",
           "fileName": "D60C6A33-2AA4-4BF2-B817-E8803CBDFDF6.jpeg",
           "fileSizeBytes": 87684
         }
@@ -10348,12 +10345,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105135805158137866",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\74B80301-7A71-4716-8BB8-834F3E036202-D3EFE.jpeg",
+          "url": "ASSETS forma de json\\74B80301-7A71-4716-8BB8-834F3E036202-D3EFE.jpeg",
           "fileName": "74B80301-7A71-4716-8BB8-834F3E036202.jpeg",
           "fileSizeBytes": 100173
         }
@@ -10399,7 +10396,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -10443,7 +10440,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -10487,7 +10484,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -10531,12 +10528,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105136097165582398",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\C988AAC2-311D-4AF6-A242-F5D19A8E3985-3BD9C.jpeg",
+          "url": "ASSETS forma de json\\C988AAC2-311D-4AF6-A242-F5D19A8E3985-3BD9C.jpeg",
           "fileName": "C988AAC2-311D-4AF6-A242-F5D19A8E3985.jpeg",
           "fileSizeBytes": 43441
         }
@@ -10582,12 +10579,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105136337738285076",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\D36D0B4E-50C9-4E54-9DCB-71AC3E55E50F-1A7E7.jpeg",
+          "url": "ASSETS forma de json\\D36D0B4E-50C9-4E54-9DCB-71AC3E55E50F-1A7E7.jpeg",
           "fileName": "D36D0B4E-50C9-4E54-9DCB-71AC3E55E50F.jpeg",
           "fileSizeBytes": 50570
         }
@@ -10633,12 +10630,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105136488548679820",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\0F08D4AB-6EF1-499C-976F-21995BD3CDC4-84D2C.jpeg",
+          "url": "ASSETS forma de json\\0F08D4AB-6EF1-499C-976F-21995BD3CDC4-84D2C.jpeg",
           "fileName": "0F08D4AB-6EF1-499C-976F-21995BD3CDC4.jpeg",
           "fileSizeBytes": 46883
         }
@@ -10684,12 +10681,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105136773052514355",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\784FC754-540D-40FC-A0A7-123A10A713B6-D2D11.jpeg",
+          "url": "ASSETS forma de json\\784FC754-540D-40FC-A0A7-123A10A713B6-D2D11.jpeg",
           "fileName": "784FC754-540D-40FC-A0A7-123A10A713B6.jpeg",
           "fileSizeBytes": 41190
         }
@@ -10735,12 +10732,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105137326964875454",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\E991CA9C-57AC-4E19-B9F3-7D4445984EB6-9D171.jpeg",
+          "url": "ASSETS forma de json\\E991CA9C-57AC-4E19-B9F3-7D4445984EB6-9D171.jpeg",
           "fileName": "E991CA9C-57AC-4E19-B9F3-7D4445984EB6.jpeg",
           "fileSizeBytes": 57101
         }
@@ -10786,7 +10783,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [
@@ -10796,7 +10793,7 @@
           "timestamp": null,
           "description": "",
           "thumbnail": {
-            "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\latest-0578D",
+            "url": "ASSETS forma de json\\latest-0578D",
             "width": 161,
             "height": 195
           },
@@ -10845,12 +10842,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105137996732317696",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\44F76E3C-18E9-4869-8FD3-35B59C6BCBD2-0AB0E.jpeg",
+          "url": "ASSETS forma de json\\44F76E3C-18E9-4869-8FD3-35B59C6BCBD2-0AB0E.jpeg",
           "fileName": "44F76E3C-18E9-4869-8FD3-35B59C6BCBD2.jpeg",
           "fileSizeBytes": 46804
         }
@@ -10896,12 +10893,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105138062285082816",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\CE4A4D72-19FB-464D-938B-B05C02CA6173-86EBC.jpeg",
+          "url": "ASSETS forma de json\\CE4A4D72-19FB-464D-938B-B05C02CA6173-86EBC.jpeg",
           "fileName": "CE4A4D72-19FB-464D-938B-B05C02CA6173.jpeg",
           "fileSizeBytes": 26630
         }
@@ -10947,7 +10944,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -10991,7 +10988,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11035,12 +11032,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105138549092794498",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\50DC00DB-CC4B-4EEF-818E-B7D70199D7D9-FE7D1.jpeg",
+          "url": "ASSETS forma de json\\50DC00DB-CC4B-4EEF-818E-B7D70199D7D9-FE7D1.jpeg",
           "fileName": "50DC00DB-CC4B-4EEF-818E-B7D70199D7D9.jpeg",
           "fileSizeBytes": 23418
         }
@@ -11086,12 +11083,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105138752977915914",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\797087BE-14CD-4D49-B4B0-6BD443CC8743-54E89.jpeg",
+          "url": "ASSETS forma de json\\797087BE-14CD-4D49-B4B0-6BD443CC8743-54E89.jpeg",
           "fileName": "797087BE-14CD-4D49-B4B0-6BD443CC8743.jpeg",
           "fileSizeBytes": 87350
         }
@@ -11137,7 +11134,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11181,12 +11178,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105138946570211398",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\8E9FBA3D-59E5-4A50-A9FE-28BF6F4C828B-36FE5.jpeg",
+          "url": "ASSETS forma de json\\8E9FBA3D-59E5-4A50-A9FE-28BF6F4C828B-36FE5.jpeg",
           "fileName": "8E9FBA3D-59E5-4A50-A9FE-28BF6F4C828B.jpeg",
           "fileSizeBytes": 97721
         }
@@ -11232,12 +11229,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105139144042225736",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\A747802E-9CAB-4F72-B6B0-A73D1151BDC3-E2153.jpeg",
+          "url": "ASSETS forma de json\\A747802E-9CAB-4F72-B6B0-A73D1151BDC3-E2153.jpeg",
           "fileName": "A747802E-9CAB-4F72-B6B0-A73D1151BDC3.jpeg",
           "fileSizeBytes": 62503
         }
@@ -11283,7 +11280,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11327,7 +11324,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11371,7 +11368,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11415,12 +11412,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1105139476348555366",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\5B3F5C0A-0E80-49D7-BBD6-524FDEEF93F7-4CA7D.jpeg",
+          "url": "ASSETS forma de json\\5B3F5C0A-0E80-49D7-BBD6-524FDEEF93F7-4CA7D.jpeg",
           "fileName": "5B3F5C0A-0E80-49D7-BBD6-524FDEEF93F7.jpeg",
           "fileSizeBytes": 6837
         }
@@ -11466,7 +11463,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11510,7 +11507,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11554,7 +11551,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11586,7 +11583,7 @@
             "position": 5
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
+        "avatarUrl": "ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11630,7 +11627,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11674,7 +11671,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11706,7 +11703,7 @@
             "position": 5
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
+        "avatarUrl": "ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11750,7 +11747,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11794,7 +11791,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11838,12 +11835,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1110239540293156884",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\120F7F3F-4766-444F-B64D-3E11EC377FD0-D5920.jpeg",
+          "url": "ASSETS forma de json\\120F7F3F-4766-444F-B64D-3E11EC377FD0-D5920.jpeg",
           "fileName": "120F7F3F-4766-444F-B64D-3E11EC377FD0.jpeg",
           "fileSizeBytes": 26593
         }
@@ -11889,7 +11886,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11933,7 +11930,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -11977,7 +11974,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12009,7 +12006,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12053,7 +12050,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12097,7 +12094,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12129,7 +12126,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12173,7 +12170,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12205,7 +12202,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12249,7 +12246,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12281,7 +12278,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12325,7 +12322,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12357,7 +12354,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12401,7 +12398,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12445,7 +12442,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12477,12 +12474,12 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [
         {
           "id": "1110242841436889230",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\IMG_2217-BBE4E.png",
+          "url": "ASSETS forma de json\\IMG_2217-BBE4E.png",
           "fileName": "IMG_2217.png",
           "fileSizeBytes": 38934
         }
@@ -12528,7 +12525,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12560,7 +12557,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12592,7 +12589,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12636,7 +12633,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12668,7 +12665,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12712,7 +12709,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12756,7 +12753,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12788,7 +12785,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12832,7 +12829,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12876,7 +12873,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12908,7 +12905,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12952,7 +12949,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -12984,7 +12981,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13028,7 +13025,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13072,7 +13069,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13116,7 +13113,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13160,7 +13157,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13204,12 +13201,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142615439130767482",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-E0994.png",
+          "url": "ASSETS forma de json\\image-E0994.png",
           "fileName": "image.png",
           "fileSizeBytes": 7563
         }
@@ -13255,12 +13252,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142615569401643058",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-9E53F.png",
+          "url": "ASSETS forma de json\\image-9E53F.png",
           "fileName": "image.png",
           "fileSizeBytes": 12524
         }
@@ -13306,12 +13303,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142615860285034496",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-47CCC.png",
+          "url": "ASSETS forma de json\\image-47CCC.png",
           "fileName": "image.png",
           "fileSizeBytes": 12140
         }
@@ -13357,12 +13354,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142616099528118413",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-F79BD.png",
+          "url": "ASSETS forma de json\\image-F79BD.png",
           "fileName": "image.png",
           "fileSizeBytes": 5784
         }
@@ -13408,7 +13405,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13452,12 +13449,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142616319729074296",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-6A139.png",
+          "url": "ASSETS forma de json\\image-6A139.png",
           "fileName": "image.png",
           "fileSizeBytes": 7108
         }
@@ -13503,12 +13500,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142616534322253934",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-08818.png",
+          "url": "ASSETS forma de json\\image-08818.png",
           "fileName": "image.png",
           "fileSizeBytes": 12773
         }
@@ -13554,12 +13551,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142616870218911796",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-19AE7.png",
+          "url": "ASSETS forma de json\\image-19AE7.png",
           "fileName": "image.png",
           "fileSizeBytes": 20577
         }
@@ -13605,7 +13602,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13649,12 +13646,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142617198255419536",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-2BF4B.png",
+          "url": "ASSETS forma de json\\image-2BF4B.png",
           "fileName": "image.png",
           "fileSizeBytes": 3821
         }
@@ -13700,12 +13697,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142617340798840863",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-4A5D9.png",
+          "url": "ASSETS forma de json\\image-4A5D9.png",
           "fileName": "image.png",
           "fileSizeBytes": 4775
         }
@@ -13751,12 +13748,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142617665140166776",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-3F8DB.png",
+          "url": "ASSETS forma de json\\image-3F8DB.png",
           "fileName": "image.png",
           "fileSizeBytes": 5256
         }
@@ -13802,7 +13799,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -13846,12 +13843,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142617984137969776",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-96EE5.png",
+          "url": "ASSETS forma de json\\image-96EE5.png",
           "fileName": "image.png",
           "fileSizeBytes": 2165
         }
@@ -13897,12 +13894,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142618111464456302",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-40AB6.png",
+          "url": "ASSETS forma de json\\image-40AB6.png",
           "fileName": "image.png",
           "fileSizeBytes": 58875
         }
@@ -13948,12 +13945,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1142618216145899590",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-20BE4.png",
+          "url": "ASSETS forma de json\\image-20BE4.png",
           "fileName": "image.png",
           "fileSizeBytes": 2126
         }
@@ -13999,7 +13996,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -14043,12 +14040,12 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [
         {
           "id": "1145434769430155325",
-          "url": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\image-0BF8F.png",
+          "url": "ASSETS forma de json\\image-0BF8F.png",
           "fileName": "image.png",
           "fileSizeBytes": 15152
         }
@@ -14082,7 +14079,7 @@
             "position": 9
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+        "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
       },
       "attachments": [],
       "embeds": [],
@@ -14126,7 +14123,7 @@
             "position": 4
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
+        "avatarUrl": "ASSETS forma de json\\c0f9554349a75702f5f3d7a9191e451f-23CC8.png"
       },
       "attachments": [],
       "embeds": [],
@@ -14158,7 +14155,7 @@
             "position": 5
           }
         ],
-        "avatarUrl": "C:\\Users\\Aidan\\Documents\\TAP Reading Order\\json version\\ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
+        "avatarUrl": "ASSETS forma de json\\00e5cb55aacbe3824e8b8a9d53aac811-1CCD0.png"
       },
       "attachments": [],
       "embeds": [],
