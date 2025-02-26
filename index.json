@@ -33,7 +33,10 @@
     { "name": "Chapter 17", "file": "chapter 17/chapter17.json" },
     { "name": "Chapter 18", "file": "chapter 18/chapter18.json" },
     { "name": "Chapter 18.5", "file": "chapter 18.5/chapter18point5.json" },
-    { "name": "Chapter 19", "file": "chapter 19/chapter19.json" }
+    { "name": "Chapter 19", "file": "chapter 19/chapter19.json" },
+    { "name": "Alternative", "file": "chapter Alternative/alternative.json"},
+    { "name": "scipe Alternative", "file": "chapter Alternative/scipealternative.json"},
+    { "name": "Full Scipe", "file": "chapter Alternative/scipe.json"}
   ],
   "format": "json"
 }
