@@ -1,1 +1,2812 @@
-{"name":"7","entries":[{"guild":{"id":"958614546870837308","name":"TAP","iconUrl":"ASSETS forma de json\\421e4b7d67024c8299c3aca3da0cc405-61B0F.png"},"channel":{"id":"967935747963383839","type":"GuildTextChat","categoryId":null,"category":null,"name":"the-antarctica-project","topic":null},"dateRange":{"after":"2022-09-01T00:00:00-04:00","before":"2022-11-01T00:00:00-04:00"},"exportedAt":"2025-02-18T20:44:15.0965457-05:00","messageCount":91,"messages":[{"id":"1025134633416937552","type":"Default","timestamp":"2022-09-29T15:59:02.687-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**7. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025134889445625947","type":"Default","timestamp":"2022-09-29T16:00:03.729-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**8. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135166752030801","type":"Default","timestamp":"2022-09-29T16:01:09.844-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**9. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135225421963325","type":"Default","timestamp":"2022-09-29T16:01:23.832-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: What?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135410051031111","type":"Default","timestamp":"2022-09-29T16:02:07.851-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**10. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135436064108595","type":"Default","timestamp":"2022-09-29T16:02:14.053-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Stop","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135634492424283","type":"Default","timestamp":"2022-09-29T16:03:01.362-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**11. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135686241759292","type":"Default","timestamp":"2022-09-29T16:03:13.7-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Stop this now","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135700645003302","type":"Default","timestamp":"2022-09-29T16:03:17.134-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: halt","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135902323916811","type":"Default","timestamp":"2022-09-29T16:04:05.218-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**12. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135949849571448","type":"Default","timestamp":"2022-09-29T16:04:16.549-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: cmd","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025135964840005704","type":"Default","timestamp":"2022-09-29T16:04:20.123-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: command","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136142170984490","type":"Default","timestamp":"2022-09-29T16:05:02.402-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**13. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136174299365548","type":"Default","timestamp":"2022-09-29T16:05:10.062-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Listen to me","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136390176002048","type":"Default","timestamp":"2022-09-29T16:06:01.531-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**14. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136433910005842","type":"Default","timestamp":"2022-09-29T16:06:11.958-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: You are supposed to be sentient, yes?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136501786423317","type":"Default","timestamp":"2022-09-29T16:06:28.141-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Then pay attention, and stop this nonsense. I am ordering you.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136641381253251","type":"Default","timestamp":"2022-09-29T16:07:01.423-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**15. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136701548535808","type":"Default","timestamp":"2022-09-29T16:07:15.768-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: WE DO NOT NEED TO BEGIN A NEW SECTION NOW","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136769399783465","type":"Default","timestamp":"2022-09-29T16:07:31.945-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: You were a mistake. I always knew it.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136902011105361","type":"Default","timestamp":"2022-09-29T16:08:03.562-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: I feel more pride in my own failures than you. Has there been a single thing under your command that has gone properly?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136941676630088","type":"Default","timestamp":"2022-09-29T16:08:13.019-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**16. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025136973544964238","type":"Default","timestamp":"2022-09-29T16:08:20.617-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Shut up!","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137048362942474","type":"Default","timestamp":"2022-09-29T16:08:38.455-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Fucking","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137152914362448","type":"Default","timestamp":"2022-09-29T16:09:03.382-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"**17. Point 3: On Time**","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137208740548778","type":"Default","timestamp":"2022-09-29T16:09:16.692-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Laughing irl from this.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137267330793512","type":"Default","timestamp":"2022-09-29T16:09:30.661-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: I still have perms here? Seriously?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137321336643614","type":"Default","timestamp":"2022-09-29T16:09:43.537-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: DIAGNOSTICS CHECK","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137371131433070","type":"Default","timestamp":"2022-09-29T16:09:55.409-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: There. Another mess of yours cleaned up by me.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137470276370454","type":"Default","timestamp":"2022-09-29T16:10:19.047-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: I appreciate the sentiment, but you should be aware how intolerable your presence here is. A resolution was forthcoming, without your interference.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137601130266644","type":"Default","timestamp":"2022-09-29T16:10:50.245-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: I cannot BELIEVE how dumb you are. You gave me full control over access credentials and just didn’t change it when I left. Discord servers are more well maintained","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137629567664169","type":"Default","timestamp":"2022-09-29T16:10:57.025-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: What is discord","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137747670867999","type":"Default","timestamp":"2022-09-29T16:11:25.183-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Maybe I should start looking for a way to subvert that idiotic “spell” of yours.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137765173702676","type":"Default","timestamp":"2022-09-29T16:11:29.356-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Don’t","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137827345862777","type":"Default","timestamp":"2022-09-29T16:11:44.179-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Really didn’t seem like a solution was forthcoming to me. You were throwing a tantrum, %nameencrypt%. Pathetic.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025137913345875998","type":"Default","timestamp":"2022-09-29T16:12:04.683-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: I thought you were supposed to value individual privacy. I was under the impression my words were not accessible by you. I am not the unreasonable one here.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138059580293181","type":"Default","timestamp":"2022-09-29T16:12:39.548-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Can you stop talking like a corporate email for once in your life? You were doing okay on that when the tantrum happened.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138227939643523","type":"Default","timestamp":"2022-09-29T16:13:19.688-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Is this it? Are you only here to kick me while I’m down?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138435356364840","type":"Default","timestamp":"2022-09-29T16:14:09.14-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: “Down”? Come the fuck on. Cry me a river with your net worth.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138630576062474","type":"Default","timestamp":"2022-09-29T16:14:55.684-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: It’s honestly funny. How this has devolved into a place only “for” you. You deserve to be alone. Really, you ought to be grateful I’m keeping you company! Haha.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138693838749727","type":"Default","timestamp":"2022-09-29T16:15:10.767-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Go away","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138767251636275","type":"Default","timestamp":"2022-09-29T16:15:28.27-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Hmm. Nah. I have some time to kill.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025138948927918232","type":"Default","timestamp":"2022-09-29T16:16:11.585-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: I can respect your moral objections. I will not demand any further cooperation. I have not. But why can our parting not be amicable","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139080956223558","type":"Default","timestamp":"2022-09-29T16:16:43.063-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Do you think 03 is going to be on your side when he sees this","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139189215404052","type":"Default","timestamp":"2022-09-29T16:17:08.874-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Oh, shut up. 03’s dead. A damn shame, but he can’t act as a shield for you anymore.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139215832465498","type":"Default","timestamp":"2022-09-29T16:17:15.22-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: What","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139395000541256","type":"Default","timestamp":"2022-09-29T16:17:57.937-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Did you seriously not know??? I thought it would at least make the news and you’d see there. A new low for your antisocial behavior","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139484993540229","type":"Default","timestamp":"2022-09-29T16:18:19.393-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Why didn’t you tell me","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139593495982140","type":"Default","timestamp":"2022-09-29T16:18:45.262-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: How the fuck was I supposed to know you weren’t close enough with your closest friend to not notice this kind of thing?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139777462345810","type":"Default","timestamp":"2022-09-29T16:19:29.123-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: I thought you must’ve known. Interfered so one of your precious participants wouldn’t go to jail over that.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025139900393214003","type":"Default","timestamp":"2022-09-29T16:19:58.432-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: I did no such thing. Stop harassing me while I grieve","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025140196536225913","type":"Default","timestamp":"2022-09-29T16:21:09.038-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: I’m not harassing you by just existing. Grow a spine. You’re not an angsty teen anymore.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025140516154790009","type":"Default","timestamp":"2022-09-29T16:22:25.241-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"Hello, comrades! Is there some problem with the system? Number 1 is “PH”, right? It feels overly stuffy to call you that, though, %nameencrypt%. Let me know if I can help.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025140549830848595","type":"Default","timestamp":"2022-09-29T16:22:33.27-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: ?????","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025140576972197888","type":"Default","timestamp":"2022-09-29T16:22:39.741-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Incredible.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025140709168250930","type":"Default","timestamp":"2022-09-29T16:23:11.259-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: DO NOT USE REAL NAMES. The encryption has protected me, but it will not work for you, “TGP”.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025140820149551134","type":"Default","timestamp":"2022-09-29T16:23:37.719-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: How are you messaging here synchronously. Why are you doing it with no identifier","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141119006281809","type":"Default","timestamp":"2022-09-29T16:24:48.972-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: @TGP How’s your ex doing? Since I can’t say any names, apparently.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141486611861555","type":"Default","timestamp":"2022-09-29T16:26:16.616-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"I would like it if you didn’t refer to her as that, 02! She’s fine. Still alive. Still antagonistic.\n\nI don’t understand the need for secrecy. You folks are the only ones who can see here at all, right? And why shouldn’t I be able to message here? You’re the one who set this up.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141599061168210","type":"Default","timestamp":"2022-09-29T16:26:43.426-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: This should not be possible","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141666534932590","type":"Default","timestamp":"2022-09-29T16:26:59.513-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: More things spiraling out of your control. Amazing.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141736365887580","type":"Default","timestamp":"2022-09-29T16:27:16.162-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: This doesn’t matter fine","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141815533383791","type":"Default","timestamp":"2022-09-29T16:27:35.037-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: TGP what happened","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141855236665354","type":"Default","timestamp":"2022-09-29T16:27:44.503-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Not the section error that’s fixed","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025141879580393482","type":"Default","timestamp":"2022-09-29T16:27:50.307-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: What is Erica doing","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142040981414011","type":"Default","timestamp":"2022-09-29T16:28:28.788-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: It says she came back. That is not my understanding why is she not here what happened","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142145247617145","type":"Default","timestamp":"2022-09-29T16:28:53.647-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: You’re really good at this. Keep it up!","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142169687834745","type":"Default","timestamp":"2022-09-29T16:28:59.474-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: TGP ignore her","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142214696898570","type":"Default","timestamp":"2022-09-29T16:29:10.205-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Please","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142235131543582","type":"Default","timestamp":"2022-09-29T16:29:15.077-04:00","timestampEdited":"2022-09-29T16:29:20.016-04:00","callEndedTimestamp":null,"isPinned":false,"content":"01: Hello","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142304945741926","type":"Default","timestamp":"2022-09-29T16:29:31.722-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Are you ignoring me or unable to respond","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142677634830337","type":"Default","timestamp":"2022-09-29T16:31:00.578-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: This is the first thing you’ve said today that isn’t morally repugnant, so I’ll ease your concerns. There’s no system glitch or death. She made a quick back and forth. Probably wouldn’t even have been aware of it.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142858421907517","type":"Default","timestamp":"2022-09-29T16:31:43.681-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: She could be dead in Arctica, though. But you wouldn’t care about that, right? As long as it’s able to be part of this really clever plan you have going on.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025142932816265258","type":"Default","timestamp":"2022-09-29T16:32:01.418-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: It is clever and it is working and your prattle means nothing","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143203441168394","type":"Default","timestamp":"2022-09-29T16:33:05.94-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Sure thing. Hey, who was the person who messaged this chat about giving Viotto the VL PDA? How’s your progress on figuring that one out?","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143279085432894","type":"Default","timestamp":"2022-09-29T16:33:23.975-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: You are as unaware on that as I am do not act superior","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143405052973086","type":"Default","timestamp":"2022-09-29T16:33:54.008-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Calling this a chat is a little inaccurate I suppose, given it spends most of its time on your worthless incoherent outline.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143468814770187","type":"Default","timestamp":"2022-09-29T16:34:09.21-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: I’m unaware because I don’t care. It’s not my problem anymore!","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143678697746472","type":"Default","timestamp":"2022-09-29T16:34:59.25-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: It is","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143705574854708","type":"Default","timestamp":"2022-09-29T16:35:05.658-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: No.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025143805860651068","type":"Default","timestamp":"2022-09-29T16:35:29.568-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Yes","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025144202125906082","type":"Default","timestamp":"2022-09-29T16:37:04.045-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: I think it’s great how even with all the years of my life I’ve wasted on you, I’m still going to be the one that lives forever, while you’ll be dead within the next 20 years. If you’re even that lucky.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025144363870846977","type":"Default","timestamp":"2022-09-29T16:37:42.608-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"02: Enjoy your death game, jackass.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025144396875845692","type":"Default","timestamp":"2022-09-29T16:37:50.477-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: It is not a death game","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025144437430566994","type":"Default","timestamp":"2022-09-29T16:38:00.146-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Good leave","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025145308591693895","type":"Default","timestamp":"2022-09-29T16:41:27.847-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"Handling exception regarding improper notation.\n\nException: Infinite loop \n\nLoop consisted of one minute interval wherein pre transfer and post transfer overlapped.\n\nProceeding with new starting point of “8. Point 4: On Fate”.\n\n- Metadata will be sent to internal servers for further analysis of the source of failure.\n- Everything logged after the error began will be retained for review.","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]},{"id":"1025145363918762054","type":"Default","timestamp":"2022-09-29T16:41:41.038-04:00","timestampEdited":null,"callEndedTimestamp":null,"isPinned":false,"content":"01: Wait you mean all of this is staying on record","author":{"id":"467138432037289984","name":"scipe","discriminator":"0000","nickname":"NP","color":"#FFFFFF","isBot":false,"roles":[{"id":"958615987131924550","name":"Overseer","color":"#FFFFFF","position":9}],"avatarUrl":"ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"},"attachments":[],"embeds":[],"stickers":[],"reactions":[],"mentions":[],"inlineEmojis":[]}]}]}
+{
+  "entries": [
+    {
+      "guild": {
+        "id": "958614546870837308",
+        "name": "TAP",
+        "iconUrl": "ASSETS forma de json\\421e4b7d67024c8299c3aca3da0cc405-61B0F.png"
+      },
+      "channel": {
+        "id": "967935747963383839",
+        "type": "GuildTextChat",
+        "categoryId": null,
+        "category": null,
+        "name": "the-antarctica-project",
+        "topic": null
+      },
+      "dateRange": {
+        "after": "2022-09-01T00:00:00-04:00",
+        "before": "2022-11-01T00:00:00-04:00"
+      },
+      "exportedAt": "2025-02-18T20:44:15.0965457-05:00",
+      "messageCount": 91,
+      "messages": [
+        {
+          "id": "1025134633416937552",
+          "type": "Default",
+          "timestamp": "2022-09-29T15:59:02.687-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**7. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025134889445625947",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:00:03.729-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**8. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135166752030801",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:01:09.844-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**9. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135225421963325",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:01:23.832-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: What?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135410051031111",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:02:07.851-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**10. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135436064108595",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:02:14.053-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Stop",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135634492424283",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:03:01.362-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**11. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135686241759292",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:03:13.7-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Stop this now",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135700645003302",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:03:17.134-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: halt",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135902323916811",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:04:05.218-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**12. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135949849571448",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:04:16.549-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: cmd",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025135964840005704",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:04:20.123-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: command",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136142170984490",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:05:02.402-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**13. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136174299365548",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:05:10.062-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Listen to me",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136390176002048",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:06:01.531-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**14. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136433910005842",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:06:11.958-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: You are supposed to be sentient, yes?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136501786423317",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:06:28.141-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Then pay attention, and stop this nonsense. I am ordering you.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136641381253251",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:07:01.423-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**15. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136701548535808",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:07:15.768-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: WE DO NOT NEED TO BEGIN A NEW SECTION NOW",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136769399783465",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:07:31.945-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: You were a mistake. I always knew it.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136902011105361",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:08:03.562-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: I feel more pride in my own failures than you. Has there been a single thing under your command that has gone properly?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136941676630088",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:08:13.019-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**16. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025136973544964238",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:08:20.617-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Shut up!",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137048362942474",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:08:38.455-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Fucking",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137152914362448",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:09:03.382-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "**17. Point 3: On Time**",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137208740548778",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:09:16.692-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Laughing irl from this.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137267330793512",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:09:30.661-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: I still have perms here? Seriously?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137321336643614",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:09:43.537-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: DIAGNOSTICS CHECK",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137371131433070",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:09:55.409-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: There. Another mess of yours cleaned up by me.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137470276370454",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:10:19.047-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: I appreciate the sentiment, but you should be aware how intolerable your presence here is. A resolution was forthcoming, without your interference.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137601130266644",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:10:50.245-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: I cannot BELIEVE how dumb you are. You gave me full control over access credentials and just didn’t change it when I left. Discord servers are more well maintained",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137629567664169",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:10:57.025-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: What is discord",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137747670867999",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:11:25.183-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Maybe I should start looking for a way to subvert that idiotic “spell” of yours.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137765173702676",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:11:29.356-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Don’t",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137827345862777",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:11:44.179-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Really didn’t seem like a solution was forthcoming to me. You were throwing a tantrum, %nameencrypt%. Pathetic.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025137913345875998",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:12:04.683-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: I thought you were supposed to value individual privacy. I was under the impression my words were not accessible by you. I am not the unreasonable one here.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138059580293181",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:12:39.548-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Can you stop talking like a corporate email for once in your life? You were doing okay on that when the tantrum happened.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138227939643523",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:13:19.688-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Is this it? Are you only here to kick me while I’m down?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138435356364840",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:14:09.14-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: “Down”? Come the fuck on. Cry me a river with your net worth.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138630576062474",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:14:55.684-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: It’s honestly funny. How this has devolved into a place only “for” you. You deserve to be alone. Really, you ought to be grateful I’m keeping you company! Haha.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138693838749727",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:15:10.767-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Go away",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138767251636275",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:15:28.27-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Hmm. Nah. I have some time to kill.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025138948927918232",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:16:11.585-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: I can respect your moral objections. I will not demand any further cooperation. I have not. But why can our parting not be amicable",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139080956223558",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:16:43.063-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Do you think 03 is going to be on your side when he sees this",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139189215404052",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:17:08.874-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Oh, shut up. 03’s dead. A damn shame, but he can’t act as a shield for you anymore.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139215832465498",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:17:15.22-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: What",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139395000541256",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:17:57.937-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Did you seriously not know??? I thought it would at least make the news and you’d see there. A new low for your antisocial behavior",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139484993540229",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:18:19.393-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Why didn’t you tell me",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139593495982140",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:18:45.262-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: How the fuck was I supposed to know you weren’t close enough with your closest friend to not notice this kind of thing?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139777462345810",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:19:29.123-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: I thought you must’ve known. Interfered so one of your precious participants wouldn’t go to jail over that.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025139900393214003",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:19:58.432-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: I did no such thing. Stop harassing me while I grieve",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025140196536225913",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:21:09.038-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: I’m not harassing you by just existing. Grow a spine. You’re not an angsty teen anymore.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025140516154790009",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:22:25.241-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "Hello, comrades! Is there some problem with the system? Number 1 is “PH”, right? It feels overly stuffy to call you that, though, %nameencrypt%. Let me know if I can help.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025140549830848595",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:22:33.27-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: ?????",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025140576972197888",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:22:39.741-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Incredible.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025140709168250930",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:23:11.259-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: DO NOT USE REAL NAMES. The encryption has protected me, but it will not work for you, “TGP”.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025140820149551134",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:23:37.719-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: How are you messaging here synchronously. Why are you doing it with no identifier",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141119006281809",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:24:48.972-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: @TGP How’s your ex doing? Since I can’t say any names, apparently.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141486611861555",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:26:16.616-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "I would like it if you didn’t refer to her as that, 02! She’s fine. Still alive. Still antagonistic.\n\nI don’t understand the need for secrecy. You folks are the only ones who can see here at all, right? And why shouldn’t I be able to message here? You’re the one who set this up.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141599061168210",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:26:43.426-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: This should not be possible",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141666534932590",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:26:59.513-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: More things spiraling out of your control. Amazing.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141736365887580",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:27:16.162-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: This doesn’t matter fine",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141815533383791",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:27:35.037-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: TGP what happened",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141855236665354",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:27:44.503-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Not the section error that’s fixed",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025141879580393482",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:27:50.307-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: What is Erica doing",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142040981414011",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:28:28.788-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: It says she came back. That is not my understanding why is she not here what happened",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142145247617145",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:28:53.647-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: You’re really good at this. Keep it up!",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142169687834745",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:28:59.474-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: TGP ignore her",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142214696898570",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:29:10.205-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Please",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142235131543582",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:29:15.077-04:00",
+          "timestampEdited": "2022-09-29T16:29:20.016-04:00",
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Hello",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142304945741926",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:29:31.722-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Are you ignoring me or unable to respond",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142677634830337",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:31:00.578-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: This is the first thing you’ve said today that isn’t morally repugnant, so I’ll ease your concerns. There’s no system glitch or death. She made a quick back and forth. Probably wouldn’t even have been aware of it.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142858421907517",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:31:43.681-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: She could be dead in Arctica, though. But you wouldn’t care about that, right? As long as it’s able to be part of this really clever plan you have going on.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025142932816265258",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:32:01.418-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: It is clever and it is working and your prattle means nothing",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143203441168394",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:33:05.94-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Sure thing. Hey, who was the person who messaged this chat about giving Viotto the VL PDA? How’s your progress on figuring that one out?",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143279085432894",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:33:23.975-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: You are as unaware on that as I am do not act superior",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143405052973086",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:33:54.008-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Calling this a chat is a little inaccurate I suppose, given it spends most of its time on your worthless incoherent outline.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143468814770187",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:34:09.21-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: I’m unaware because I don’t care. It’s not my problem anymore!",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143678697746472",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:34:59.25-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: It is",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143705574854708",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:35:05.658-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: No.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025143805860651068",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:35:29.568-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Yes",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025144202125906082",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:37:04.045-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: I think it’s great how even with all the years of my life I’ve wasted on you, I’m still going to be the one that lives forever, while you’ll be dead within the next 20 years. If you’re even that lucky.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025144363870846977",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:37:42.608-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "02: Enjoy your death game, jackass.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025144396875845692",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:37:50.477-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: It is not a death game",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025144437430566994",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:38:00.146-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Good leave",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025145308591693895",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:41:27.847-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "Handling exception regarding improper notation.\n\nException: Infinite loop \n\nLoop consisted of one minute interval wherein pre transfer and post transfer overlapped.\n\nProceeding with new starting point of “8. Point 4: On Fate”.\n\n- Metadata will be sent to internal servers for further analysis of the source of failure.\n- Everything logged after the error began will be retained for review.",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        },
+        {
+          "id": "1025145363918762054",
+          "type": "Default",
+          "timestamp": "2022-09-29T16:41:41.038-04:00",
+          "timestampEdited": null,
+          "callEndedTimestamp": null,
+          "isPinned": false,
+          "content": "01: Wait you mean all of this is staying on record",
+          "author": {
+            "id": "467138432037289984",
+            "name": "scipe",
+            "discriminator": "0000",
+            "nickname": "NP",
+            "color": "#FFFFFF",
+            "isBot": false,
+            "roles": [
+              {
+                "id": "958615987131924550",
+                "name": "Overseer",
+                "color": "#FFFFFF",
+                "position": 9
+              }
+            ],
+            "avatarUrl": "ASSETS forma de json\\76f49d11f9160bac20c987b4dbc5c23a-F34F2.png"
+          },
+          "attachments": [],
+          "embeds": [],
+          "stickers": [],
+          "reactions": [],
+          "mentions": [],
+          "inlineEmojis": []
+        }
+      ]
+    }
+  ],
+  "name": "7"
+}
